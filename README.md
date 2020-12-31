@@ -3,7 +3,7 @@
 ![Github License](https://img.shields.io/badge/license-MIT-green)
 
 
-#### Description of your project
+## Description of your project
 
 With this project, I'm aiming to build 50 projects in Flutter by the end of 2021.
 
