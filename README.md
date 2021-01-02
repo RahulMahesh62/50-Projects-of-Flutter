@@ -3,23 +3,35 @@
 ![Github License](https://img.shields.io/badge/license-MIT-green)
 
 
-## Description of your project
+## Description of the project
 
 With this project, I'm aiming to build 50 projects in Flutter by the end of 2021.
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+1. Clone the repo
+2. Run Flutter packages get
+3. Run the project
 
 ## Table of content
 
 
 - [Built With](#built-with)
+- [Running Tests](#running-the-tests)
 - [Contributing](#contributing)
 - [License](#license)
 - [Get Help](#get-help)
-- [Motivation](#motivation)
-- [Acknowledgments](#acknowledgements)
+- [Acknowledgments](#acknowledgments)
 
 ## Built With
 
 Flutter, Firebase
+
+## Running the tests
+
+Run flutter test in the terminal/cmd
 
 ## Contributing
 
@@ -28,6 +40,11 @@ In the case of a bug report, bugfix or a suggestions, please feel very free to o
 
 #### Pull request
 Pull requests are always welcome, and I'll do my best to do reviews as fast as I can.
+
+## Authors
+
+* **Rahul Mahesh**
+ 
 
 ## License
 
@@ -61,4 +78,7 @@ SOFTWARE.
 - Contact me on rahulmahesh62@gmail.com
 - If appropriate, [open an issue](https://github.com/this/project/issues) on GitHub
 
+## Acknowledgments
+
+* Hat tip to anyone whose code was used
 
