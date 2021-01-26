@@ -9,8 +9,7 @@ With this project, I'm tried out building a portfolio website using Flutter.
 
 ## Screenshot
 
-<img src="https://github.com/RahulMahesh62/50-Projects-of-Flutter/blob/main/Flutter-Portfolio-Website/fp.png
-?raw=true" alt="Application Screenshot" width="700" height="400" />
+<img src="https://github.com/RahulMahesh62/50-Projects-of-Flutter/blob/main/Flutter-Portfolio-Website/fp.png?raw=true" alt="Application Screenshot" width="700" height="400" />
 
 ## Getting Started
 
