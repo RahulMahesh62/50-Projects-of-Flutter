@@ -7,6 +7,11 @@
 
 With this project, I'm tried out building a portfolio website using Flutter.
 
+## Screenshot
+
+<img src="https://github.com/RahulMahesh62/50-Projects-of-Flutter/blob/main/Flutter-Portfolio-Website/fp.png
+?raw=true" alt="Application Screenshot" width="700" height="400" />
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -32,6 +37,8 @@ Flutter
 ## Running the tests
 
 Run flutter test in the terminal/cmd
+
+## Contributing
 
 #### Issues
 In the case of a bug report, bugfix or a suggestions, please feel very free to open an issue.
