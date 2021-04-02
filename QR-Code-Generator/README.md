@@ -8,9 +8,10 @@ With this project, I'm tried out building a QR Code Generator.
 
 ## Screenshot
 
-<img src="https://github.com/RahulMahesh62/50-Projects-of-Flutter/blob/main/?raw=true" alt="Application Screenshot" width="350" height="700" />
+<img src="https://github.com/RahulMahesh62/50-Projects-of-Flutter/blob/main/QR-Code-Generator/screenshots/d2.jpg?raw=true" alt="Application Screenshot" width="350" height="700" />
 <br/>
-<img src="https://github.com/RahulMahesh62/50-Projects-of-Flutter/blob/main/?raw=true" alt="Application Screenshot" width="350" height="700" />
+<img src="https://github.com/RahulMahesh62/50-Projects-of-Flutter/blob/main/QR-Code-Generator/screenshots/d1.jpg?raw=true" alt="Application Screenshot" width="350" height="700" />
+<br/>
 
 ## Getting Started
 
