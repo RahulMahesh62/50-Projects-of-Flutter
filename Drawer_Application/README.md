@@ -4,7 +4,7 @@
 
 ## Description of the project
 
-With this project, I'm tried out building Drawer within a Flutter application.
+With this project, I tried out building Drawer within a Flutter application.
 
 ## Screenshot
 
