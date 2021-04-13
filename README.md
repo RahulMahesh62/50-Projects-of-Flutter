@@ -5,7 +5,7 @@
 
 ## Description of the project
 
-With this project, I'm aiming to build 50 projects in Flutter by the end of 2021.
+With this project, I'm aiming to build 50 small UI-focused projects using Flutter to be completed by the end of 2021.
 
 ## Getting Started
 
